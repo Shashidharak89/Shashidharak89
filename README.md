@@ -112,9 +112,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shashidharak89">
-    <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Shashidharak89&theme=tokyo-night&hide_border=true" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashidharak89&theme=tokyo-night&hide_border=true" width="90%"/>
 </p>
+
 
 </p>
