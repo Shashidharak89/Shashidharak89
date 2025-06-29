@@ -98,4 +98,23 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
+ 
+
+<h3 align="left">GitHub Stats & Contributions:</h3>
+
+<p align="center">
+  <a href="https://github.com/shashidharak89">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shashidharak89&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/shashidharak89">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=shashidharak89&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shashidharak89">
+    <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=shashidharak89&theme=tokyo-night&hide_border=true" />
+  </a>
+</p>
+
 </p>
