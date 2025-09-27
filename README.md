@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with **Scaling GameNexPlay and exploring backend optimization techniques**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.gamenexplay.live](https://portfolio.gamenexplay.live)
+- 👨‍💻 All of my projects are available at [https://portfolio.shashi-k.in](https://shashi-k.in)
 
-- 📝 I regularly write articles on [https://portfolio.gamenexplay.live/blogs](https://portfolio.gamenexplay.live/blogs)
+- 📝 I regularly write articles on [https://shashi-k.in/blogs](https://shashi-k.in/blogs)
 
 - 💬 Ask me about **React, Express.js, MongoDB, Next.js and responsive UI design**
 
 - 📫 How to reach me **shashidharak334@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio.gamenexplay.live/resume](https://portfolio.gamenexplay.live/resume)
+- 📄 Know about my experiences [https://shashi-k.in/resume](https://shashi-k.in/resume)
 
 - ⚡ Fun fact **⚡ I’m not a robot… but I do talk to them via API.**
 
