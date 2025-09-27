@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Scaling GameNexPlay and exploring backend optimization techniques**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.shashi-k.in](https://shashi-k.in)
+- 👨‍💻 All of my projects are available at [https://shashi-k.in](https://shashi-k.in)
 
 - 📝 I regularly write articles on [https://shashi-k.in/blogs](https://shashi-k.in/blogs)
 
