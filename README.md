@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashidhara K</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [GameNexPlay](https://gamenexplay.live)
+- 🔭 I’m currently working on [LEARNIX](https://learnix.shashi-k.in)
 
 - 🌱 I’m currently learning **Next.js, AI & ML, DSA**
 
