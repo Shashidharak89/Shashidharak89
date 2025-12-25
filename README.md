@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Shashidhara K</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
+<h3 align="center">GitHub API Insights</h3>
+<p align="center">
+  <a href="https://api.github.com/users/shashidharak89">
+    <img src="https://img.shields.io/github/followers/shashidharak89?logo=github&style=for-the-badge&label=Followers" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/shashidharak89?tab=stars">
+    <img src="https://img.shields.io/github/stars/shashidharak89?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Profile%20Stars" alt="GitHub stars" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=shashidharak89">
+    <img src="https://komarev.com/ghpvc/?username=shashidharak89&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  </a>
+</p>
+<p align="center"><sub>Total views counted from the first time this badge was loaded.</sub></p>
+
 - 🔭 I’m currently working on [LEARNIX](https://learnix.shashi-k.in)
 
 - 🌱 I’m currently learning **Next.js, AI & ML, DSA**
