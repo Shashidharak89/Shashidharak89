@@ -1,133 +1,226 @@
-<h1 align="center">Hi 👋, I'm Shashidhara K</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  SHASHIDHARA K — GitHub Profile           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<h3 align="center">GitHub API Insights</h3>
-<p align="center">
-  <a href="https://api.github.com/users/shashidharak89">
-    <img src="https://img.shields.io/github/followers/shashidharak89?logo=github&style=for-the-badge&label=Followers" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/shashidharak89?tab=stars">
-    <img src="https://img.shields.io/github/stars/shashidharak89?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Profile%20Stars" alt="GitHub stars" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=shashidharak89">
-    <img src="https://komarev.com/ghpvc/?username=shashidharak89&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  </a>
-</p>
-<p align="center"><sub>Total views counted from the first time this badge was loaded.</sub></p>
+<div align="center">
 
-- 🔭 I’m currently working on [LEARNIX](https://learnix.shashi-k.in)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0a1628,60:0d2137,100:00FFB3&height=200&section=header&text=Shashidhara%20K&fontSize=70&fontColor=00FFB3&fontAlignY=55&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=20&descAlignY=75&descAlign=50" width="100%"/>
 
-- 🌱 I’m currently learning **Next.js, AI & ML, DSA**
+</div>
 
-- 👯 I’m looking to collaborate on **Open-source or freelance projects in web/app development**
+<div align="center">
 
-- 🤝 I’m looking for help with **Scaling GameNexPlay and exploring backend optimization techniques**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2500&pause=600&color=00FFB3&center=true&vCenter=true&multiline=false&width=700&lines=⚡+Building+LEARNIX+%7C+AI-Powered+Learning;🚀+React+%7C+Next.js+%7C+Node+%7C+MongoDB;🧠+Exploring+AI+%26+ML+%7C+Mastering+DSA;💬+Ask+me+about+anything+fullstack!;🤖+Not+a+robot...+but+I+talk+to+them+via+API" alt="Typing SVG" />
 
-- 👨‍💻 All of my projects are available at [https://shashi-k.in](https://shashi-k.in)
+</div>
 
-- 📝 I regularly write articles on [https://shashi-k.in/blogs](https://shashi-k.in/blogs)
+<br/>
 
-- 💬 Ask me about **React, Express.js, MongoDB, Next.js and responsive UI design**
+<!-- ─── PROFILE BADGES ──────────────────────────────────────── -->
+<div align="center">
 
-- 📫 How to reach me **shashidharak334@gmail.com**
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shashi--k.in-00FFB3?style=for-the-badge&labelColor=0d1117)](https://shashi-k.in)&nbsp;
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-FF6B6B?style=for-the-badge&labelColor=0d1117)](mailto:shashidharak334@gmail.com)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=shashidharak89&label=👁️+Profile+Views&color=blueviolet&style=for-the-badge)](https://github.com/shashidharak89)
 
-- 📄 Know about my experiences [https://shashi-k.in/resume](https://shashi-k.in/resume)
+</div>
 
-- ⚡ Fun fact **⚡ I’m not a robot… but I do talk to them via API.**
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+
+<br/>
+
+<!-- ─── ABOUT ME ────────────────────────────────────────────── -->
+
+<table align="center" width="95%">
+<tr>
+<td width="55%" valign="top">
+
+### 🧬 `whoami`
+
+```typescript
+const shashidhara = {
+  name      : "Shashidhara K",
+  role      : "Fullstack Developer 🚀",
+  location  : "India 🇮🇳",
+  
+  shipping  : [
+    "LEARNIX — AI Learning Platform 📚",
+    "GameNexPlay — Gaming Hub 🎮",
+  ],
+
+  learning  : ["Next.js", "AI & ML", "DSA"],
+  
+  openTo    : [
+    "Open-source collabs 🤝",
+    "Freelance projects 💼",
+  ],
+
+  funFact   : `Not a robot...
+    but I talk to them via API ⚡`,
+};
+```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashidharak89&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" width="95%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/luminous_alpha_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luminous_alpha_" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/shashidhara_k" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shashidhara_k" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/shashidharak334" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shashidharak334" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/shashidhara_k99" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashidhara_k99" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/shashidhazdn" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shashidhazdn" height="30" width="40" />
-  </a>
-</p>
+<!-- ─── ANIMATED SNAKE GRAPH ──────────────────────────────── -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
- 
+<div align="center">
 
-<h3 align="left">GitHub Stats & Contributions:</h3>
+### 🐍 My Contributions Getting Eaten Alive
 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ─── SKILL ICONS ────────────────────────────────────────── -->
+
+<div align="center">
+
+### ⚙️ Tech Arsenal
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css&theme=dark&perline=6" />
+
+<br/><br/>
+
+**🔧 Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,php&theme=dark&perline=6" />
+
+<br/><br/>
+
+**🗄️ Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,git&theme=dark&perline=6" />
+
+<br/><br/>
+
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs&theme=dark&perline=6" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ─── TROPHIES ───────────────────────────────────────────── -->
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=shashidharak89&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ─── STATS ─────────────────────────────────────────────── -->
+
+### 📊 GitHub Stats & Contributions
+
+<div align="center">
   <a href="https://github.com/shashidharak89">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shashidharak89&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shashidharak89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/shashidharak89">
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=shashidharak89&theme=tokyonight&hide_border=true" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashidharak89&theme=tokyo-night&hide_border=true" width="90%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashidharak89&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+</div>
 
+<br/>
 
-</p>
+---
+
+<!-- ─── QUOTE ──────────────────────────────────────────────── -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ─── CONNECT ────────────────────────────────────────────── -->
+
+<div align="center">
+
+### 🌐 Let's Connect
+
+<a href="https://shashi-k.in">
+  <img src="https://img.shields.io/badge/🌍_Portfolio-Visit_Now-00FFB3?style=for-the-badge&labelColor=0d1117" />
+</a>
+<a href="https://shashi-k.in/blogs">
+  <img src="https://img.shields.io/badge/✍️_Blog-Read_Articles-FF6B6B?style=for-the-badge&labelColor=0d1117" />
+</a>
+<a href="https://shashi-k.in/resume">
+  <img src="https://img.shields.io/badge/📄_Resume-Download-4C97FF?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<a href="https://instagram.com/luminous_alpha_">
+  <img src="https://img.shields.io/badge/Instagram-@luminous__alpha__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://www.leetcode.com/shashidhara_k99">
+  <img src="https://img.shields.io/badge/LeetCode-shashidhara__k99-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" />
+</a>
+<a href="https://www.hackerrank.com/shashidharak334">
+  <img src="https://img.shields.io/badge/HackerRank-shashidharak334-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/>
+
+<a href="https://www.codechef.com/users/shashidhara_k">
+  <img src="https://img.shields.io/badge/CodeChef-shashidhara__k-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/shashidhazdn">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-shashidhazdn-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d1117" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ─── FOOTER ─────────────────────────────────────────────── -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,30:0a1628,70:0d2137,100:0d0d0d&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00FFB3&fontAlignY=65&animation=twinkling" width="100%"/>
+
+<sub>⚡ Crafted with curiosity · Powered by coffee · Deployed with love · <a href="https://shashi-k.in">shashi-k.in</a></sub>
+
+</div>
